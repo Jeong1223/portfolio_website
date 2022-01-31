@@ -1,0 +1,40 @@
+<img src="img/unsplash2.jpg" alt="" class="portfolio__img">
+
+<a href="pdf/Jang-JeongEun-ISEC3050-LargeAssignment.pdf" class="button button--flex button--small portfolio__button">
+Details
+                                    <i class="uil uil-arrow-right button__icon"></i>
+                                </a>
+
+<span class="button button--flex button--small button--link services__button">
+<a href="pdf/Jang-JeongEun-ISEC3050-LargeAssignment.pdf">
+                        View More
+                        <i class="uil uil-arrow-right button__icon"></i>
+                    </span>
+
+<p class="portfolio__description">In the Transactional Database Programming course, I created the Entity Relationship Diagram (ERD) and database with Covid-19 raw data of the Kaggle site. Through the analysis, I established relationships between entities keeping data integrity and normalization. I demonstrated building a database using Data Manipulation Language (DML) and Data Definition Language (DDL) proficiently.
+                                </p>
+
+.services__img{
+    width: 265px;
+    border-radius: .5rem;
+    justify-self: center;
+}
+
+<ul class="services__modal-services grid">
+                                <li class="services__modal-service">
+                                    <i class="uil uil-check-circle services__modal-icon"></i>
+                                    <p>Designed digital local money to tackle an economic issue.</p>
+                                </li>
+                                <li class="services__modal-service">
+                                    <i class="uil uil-check-circle services__modal-icon"></i>
+                                    <p>Designed digital local money to tackle an economic issue.</p>
+                                </li>
+                                <li class="services__modal-service">
+                                    <i class="uil uil-check-circle services__modal-icon"></i>
+                                    <p>Designed digital local money to tackle an economic issue.</p>
+                                </li>
+                                <li class="services__modal-service">
+                                    <i class="uil uil-check-circle services__modal-icon"></i>
+                                    <p>Designed digital local money to tackle an economic issue.</p>
+                                </li>
+                            </ul>
